@@ -24,6 +24,7 @@ how to :ref:`installation` the project.
    :alt: Get Started With Sphinx
 
 This is a numbered list:
+
 #. The first item on the list
 #. The second item on the list
 #. The last item on the list
