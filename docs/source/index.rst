@@ -19,7 +19,7 @@ how to :ref:`installation` the project.
 
    This is a warning.
 
-.. image:: lillianjh-rtd-tutorial/docs/source/get_started_sphinx.png
+.. image:: /source/get_started_sphinx.png
    :width: 600
    :alt: Get Started With Sphinx
 
