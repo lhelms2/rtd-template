@@ -20,7 +20,7 @@ how to :ref:`installation` the project.
    This is a warning.
 
 .. image:: source/get_started_sphinx.png
-   :width: 200
+   :width: 600
    :alt: Get Started With Sphinx
 
 Contents
