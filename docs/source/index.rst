@@ -12,7 +12,7 @@ Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 This is another branch test. Adding anohter change with a pending pull request.
-This is another another branch test.
+This is another another branch test. :ref:`test_alias`
 
 This is another another branch test.
 
