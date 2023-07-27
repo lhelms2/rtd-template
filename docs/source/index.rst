@@ -47,4 +47,4 @@ Contents
    usage
    api
    level_expertise
-   test_folder/test_folder_file
+   ref:`test_alias`
