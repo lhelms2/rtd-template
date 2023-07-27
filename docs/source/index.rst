@@ -43,6 +43,6 @@ Contents
 .. toctree::
 
    quick_start
+   introduction
    usage
    api
-   introduction
