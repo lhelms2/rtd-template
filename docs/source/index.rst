@@ -47,3 +47,4 @@ Contents
    usage
    api
    level_expertise
+   test_folder
