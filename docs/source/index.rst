@@ -47,4 +47,4 @@ Contents
    usage
    api
    level_expertise
-   ref:`test_alias`
+   :ref:`test_alias`
