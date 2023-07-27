@@ -1,4 +1,4 @@
-.. test_alias:
+.. _test_alias:
 
 ================
 This is a Test
