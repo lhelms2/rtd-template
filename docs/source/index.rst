@@ -47,4 +47,4 @@ Contents
    usage
    api
    level_expertise
-   :ref:`test_alias`
+   test_folder/test_folder_file
