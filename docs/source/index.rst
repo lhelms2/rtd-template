@@ -45,3 +45,4 @@ Contents
    quick_start
    usage
    api
+   introduction
