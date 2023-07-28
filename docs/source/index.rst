@@ -34,6 +34,7 @@ Table of Contents
 
 
 .. toctree::
+   :maxdepth: 2
 
    quick_start
    user_guide
