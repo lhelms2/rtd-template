@@ -39,5 +39,3 @@ Table of Contents
    user_guide
    support_services
    FAQ
-   level_expertise
-   test_folder/test_folder_file
