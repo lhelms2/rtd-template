@@ -1,5 +1,11 @@
-Welcome to Lumache's documentation!
-===================================
+############################
+Lumache User Documentation
+############################
+
+Pretty picture goes here.
+
+Introduction
+=============
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
@@ -8,43 +14,30 @@ and offers a *simple* and *intuitive* API.
 
 Lumache has its documentation hosted on Read the Docs.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Level of Expertise
+====================
 
-This is another branch test. Adding anohter change with a pending pull request.
-This is another another branch test. See the :ref:`test_alias` section for more details.
+This is the level of knowledge needed to effectively use Lumache. 
 
-This is another another branch test.
+Here are resources you can use to gain the level of knowledge needed to effectively use Lumache:
 
-Yet another branch test.
+- Resource 1
+- Resource 2
 
-.. note::
+Status Updates and Notices
+===========================
 
-   This project is under active development.
+Here's where status updates and notices related to Lumache will be listed.
 
-.. warning::
+Table of Contents
+==================
 
-   This is a warning.
-
-.. image:: get_started_sphinx.png
-   :width: 600
-   :alt: Get Started With Sphinx
-
-This is a numbered list:
-
-#. The first item on the list
-#. The second item on the list
-#. The last item on the list
-
-
-Contents
---------
 
 .. toctree::
 
    quick_start
-   intro_1
-   usage
-   api
+   user_guide
+   support_services
+   FAQ
    level_expertise
    test_folder/test_folder_file
