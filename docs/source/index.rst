@@ -35,7 +35,6 @@ Table of Contents
 
 .. toctree::
 
-   index
    quick_start
    user_guide
    support_services
