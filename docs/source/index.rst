@@ -27,7 +27,7 @@ Here are resources you can use to gain the level of knowledge needed to effectiv
 Status Updates and Notices
 ===========================
 
-Here's where status updates and notices related to Lumache will be listed.
+See :ref:`updates` for the latest updates and notices.
 
 Table of Contents
 ==================
@@ -36,6 +36,7 @@ Table of Contents
 .. toctree::
    :maxdepth: 2
 
+   status_updates
    quick_start
    user_guide_/index
    support_services
