@@ -40,3 +40,4 @@ Table of Contents
    user_guide
    support_services
    FAQ
+   help
