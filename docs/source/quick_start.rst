@@ -8,13 +8,13 @@ Quick Start Guide
    :depth: 2
 
 
-1. Purpose
+1. How to do X
 -----------
 
-This quickstart guide is intended for new users to get started using lumache.
+How to do X :ref:`section1` .
 
-2. Section 2
--------------
+2. How to do Y
+----------------
 
-This is the second section.
+How to do Y :ref:`section3` .
 
