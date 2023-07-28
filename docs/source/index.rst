@@ -37,7 +37,7 @@ Table of Contents
    :maxdepth: 2
 
    quick_start
-   user_guide
+   user_guide_/index
    support_services
    FAQ
    help
