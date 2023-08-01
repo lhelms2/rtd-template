@@ -3,7 +3,7 @@
 Getting Help
 ======
 
-For fequently asked questions, see :ref:`FAQ` .
+For frequently asked questions, see :ref:`FAQ`.
 
 For help with X, email Y.
 
