@@ -1,4 +1,4 @@
-Help
+Getting Help
 ======
 
 For fequently asked questions, see :ref:`FAQ` .
