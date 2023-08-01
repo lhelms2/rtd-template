@@ -4,7 +4,7 @@
 Quick Start Guide
 ===================
 
-This quick start guide is intented to get a new user started using XXX. For more detailed topic discussions, see the :ref:`user_guide`.
+This quick start guide includes the topics needed to get a new user started using XXX. For more detailed topic discussions, see the :ref:`user_guide`.
 
 .. contents:: Table of contents
    :local:
