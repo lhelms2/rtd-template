@@ -24,11 +24,6 @@ Here are resources you can use to gain the level of knowledge needed to effectiv
 - Resource 1
 - Resource 2
 
-Status Updates and Notices
-===========================
-
-See :ref:`updates` for the latest updates and notices.
-
 Table of Contents
 ==================
 
