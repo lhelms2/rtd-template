@@ -33,7 +33,7 @@ Table of Contents
 
    status_updates
    quick_start
-   user_guide_/index
+   user_guide/index
    support_services
    FAQ
    help
