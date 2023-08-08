@@ -13,8 +13,8 @@ This user guide includes detailed topic discussions, for the topics needed to ge
    accessing
    citizenship
    file_mgmt
-   user_guide/software
-   user_guide/running_jobs
-   user_guide/visualization
-   user_guide/containers
-   user_guide/protected_data
+   software
+   running_jobs
+   visualization
+   containers
+   protected_data
