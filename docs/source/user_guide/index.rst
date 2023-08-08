@@ -3,7 +3,7 @@
 User Guide
 =============
 
-This user guide includes detailed topic discussions, for the topics needed to get started using XXXXX as a new user, see :ref:`quick-start`.
+This user guide includes detailed topic discussions, for the topics needed to get started using XXXXX as a new user, see the :ref:`quick-start`.
 
 .. toctree::
    :maxdepth: 2
