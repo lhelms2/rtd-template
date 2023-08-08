@@ -8,8 +8,13 @@ This user guide includes detailed topic discussions, for the topics needed to ge
 .. toctree::
   :maxdepth: 2
 
-  Section1
-  Section2
-  Section3
-  Section4
-  Section5
+   architecture
+   fee_overview
+   accessing
+   citizenship
+   file_mgmt
+   software
+   running_jobs
+   visualization
+   containers
+   protected_data
