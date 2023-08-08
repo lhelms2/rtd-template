@@ -1,4 +1,4 @@
-.. _architecture:
+.. _architect:
 
 System Architecture
 ====================
