@@ -1,5 +1,5 @@
 ############################
-Lumache User Documentation
+XXXXX User Documentation
 ############################
 
 Pretty picture goes here.
@@ -7,12 +7,7 @@ Pretty picture goes here.
 Introduction
 =============
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Lumache has its documentation hosted on Read the Docs.
+XXXXX is a resource supported by NCSA. This is an introduction to the XXXX resource (basic description of what it is).
 
 Level of Expertise
 ====================
