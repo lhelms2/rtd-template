@@ -11,12 +11,16 @@ If you cannot find what you are looking for, try using the search box in the top
    :maxdepth: 2
 
    architecture
-   fee_overview
+   acct_admin
    accessing
    citizenship
-   file_mgmt
-   software
+   data_mgmt
+   prog_env
    running_jobs
+   software
    visualization
    containers
+   services
+   debug_perf
+   analysis
    protected_data
