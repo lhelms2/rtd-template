@@ -4,12 +4,6 @@ XXXXX User Documentation
 
 Pretty picture goes here.
 
-.. code-block:: console
-   :caption: testing code-block caption
-
-   ./code-server --bind-addr
-   info code-server
-
 Introduction
 =============
 
