@@ -1,26 +1,26 @@
 .. _access:
 
-Accessing
-==============
+Accessing the System
+=====================
 
-This is the section that describes how to access the resource.
+This is the section that describes how to access the system.
 
-Accessing, Subsection 1
+Accessing the System, Subsection 1
 -------------------------
 
-This is subsection 1 of accessing.
+This is subsection 1 of accessing the system.
 
-Accessing, Subsection 2
+Accessing the System, Subsection 2
 -------------------------
 
-This is subsection 2 of accessing.
+This is subsection 2 of accessing the system.
 
-Accessing, Subsection 3
+Accessing the System, Subsection 3
 ------------------------
 
-This is subsection 3 of accessing.
+This is subsection 3 of accessing the system.
 
-Accessing, Subsection 4
+Accessing the System, Subsection 4
 ------------------------
 
-This is subsection 4 of accessing.
+This is subsection 4 of accessing the system.
