@@ -4,10 +4,6 @@ XXXXX User Documentation
 
 Pretty picture goes here.
 
-.. note::
-
-   This is the note.
-
 Introduction
 =============
 
