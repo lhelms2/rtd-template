@@ -1,16 +1,16 @@
 .. _citizen
 
-Citizenship
-=============
+Good Citizenship
+=================
 
 This is the section that describes how to demonstrate good citizenship when using the resource.
 
-Citizenship, Subsection 1
----------------------------
+Good Citizenship, Subsection 1
+-------------------------------
 
-Subsection 1 of citizenship.
+Subsection 1 of good citizenship.
 
-Citizenship, Subsection 2
----------------------------
+Good Citizenship, Subsection 2
+-------------------------------
 
-Subsection 2 of citizenship.
+Subsection 2 of good citizenship.
