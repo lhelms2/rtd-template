@@ -4,6 +4,11 @@ XXXXX User Documentation
 
 Pretty picture goes here.
 
+.. note::
+   :caption: this is the note caption
+
+   This is the note.
+
 Introduction
 =============
 
