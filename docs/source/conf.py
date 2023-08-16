@@ -31,6 +31,7 @@ html_static_path = ['_static']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
+html_logo = "images/logo_test.png"
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
