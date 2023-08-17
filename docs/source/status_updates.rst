@@ -3,6 +3,4 @@
 Status Updates and Notices
 ===========================
 
-This is where the latest status updates and notices will be kept. 
-
-Major updates will also be communicated via X to known users.
+This links to where the latest status updates and notices are kept (do not make this a dynamic page that needs to be updated when system status changes).
