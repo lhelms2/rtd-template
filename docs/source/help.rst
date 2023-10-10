@@ -3,7 +3,9 @@
 Getting Help
 ======
 
-For any questions or issues not answered by this documentation, please **submit a support request** by emailing help@ncsa.illinois.edu. Your email will initiate a ticket that NCSA staff will use to help you. To help NCSA staff efficiently address your request, in your initial email, please include:
+For any questions or issues not answered by this documentation, please **submit a support request** by emailing help@ncsa.illinois.edu. Your email will initiate a ticket that NCSA staff will use to help you. 
+
+**To help NCSA staff efficiently address your request, in your initial email, please include:**
 
 - A descriptive subject line starting with “HYDRO” (for example, “HYDRO: Permission denied error loading blorg module”)
 - In the email body, include:
