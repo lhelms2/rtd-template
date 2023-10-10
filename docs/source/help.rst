@@ -7,10 +7,10 @@ For any questions or issues not answered by this documentation, please **submit 
 
 **To help NCSA staff efficiently address your request, in your initial email, please include:**
 
-- A descriptive subject line starting with “HYDRO” (for example, “HYDRO: Permission denied error loading blorg module”)
+- A descriptive subject line starting with “Hydro” (for example, “Hydro: Permission denied error loading blorg module”)
 - In the email body, include:
   
-  - The **user ID** you use to log onto HYDRO.
+  - The **user ID** you use to log onto Hydro.
   - The **name of the allocation account** you use to submit jobs (if applicable).
   - What you were trying to do?
   - How you tried to do it?
