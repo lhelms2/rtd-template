@@ -5,14 +5,14 @@ Getting Help
 
 For any questions or issues not answered by this documentation, please **submit a support request** by emailing help@ncsa.illinois.edu. Your email will initiate a ticket that NCSA staff will use to help you.
 
-To ensure NCSA staff are able to efficiently address your request, in your initial email, please include:
+To help NCSA staff efficiently address your request in your initial email, please include:
 
 - A descriptive subject line starting with “HYDRO” (for example, “HYDRO: Permission denied error loading blorg module”)
-- In the email body, please include:
+- In the email body, include:
   
-  - The **user ID** that you use to log onto HYDRO.
+  - The **user ID** you use to log onto HYDRO.
   - The **name of the allocation account** you use to submit jobs (if applicable).
-  - What you were trying to do (for example, run multi-blogr regression analysis on 2.4 million files).
+  - What you were trying to do.
   - How you tried to do it.
   - Why you think it isn’t working.
   - Commands or scripts you ran, in enough detail to reproduce the problem, as text (not screenshots). *Recommend attaching a .txt file*.
