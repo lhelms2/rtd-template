@@ -23,7 +23,7 @@ To ensure NCSA staff are able to efficiently address your request, in your initi
   - Any other approaches you’ve tried.
   - Any other information you think might be relevant.
 
-The attached Outlook email template is pre-populated with the above requested information.
+The attached :download:`Outlook email template <images/testing.emltpl>` is pre-populated with the above requested information.
 
 **If you have multiple, unrelated issues, please create a separate ticket for each one by sending separate emails.**
 
