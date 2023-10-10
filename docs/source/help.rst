@@ -12,9 +12,9 @@ For any questions or issues not answered by this documentation, please **submit 
   
   - The **user ID** you use to log onto HYDRO.
   - The **name of the allocation account** you use to submit jobs (if applicable).
-  - What you were trying to do.
-  - How you tried to do it.
-  - Why you think it isn’t working.
+  - What you were trying to do?
+  - How you tried to do it?
+  - Why you think it isn’t working?
   - Commands or scripts you ran, in enough detail to reproduce the problem, as text (not screenshots). *Recommend attaching a .txt file*.
   - The output and/or error messages you got, as text (not screenshots). *Recommend attaching a .txt file*.
   - List of loaded modules or packages. *Recommend attaching a .txt file*.
