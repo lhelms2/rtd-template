@@ -12,7 +12,7 @@ For any questions or issues not answered by this documentation, please **submit 
   
   - The **user ID** you use to log onto Hydro.
   - The **name of the allocation account** you use to submit jobs (if applicable).
-  - Approximately when (date/time) did the issue occur?
+  - Approximately when (date/time) the issue occurred.
   - What you were trying to do and how you tried to do it.
   - Why you think it isn’t working.
   - Commands or scripts you ran, in enough detail to reproduce the problem, as text (not screenshots). *Recommend attaching a .txt file*.
