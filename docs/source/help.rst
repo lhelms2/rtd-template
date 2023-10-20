@@ -15,11 +15,10 @@ For any questions or issues not answered by this documentation, please **submit 
   - Approximately when (date/time) the issue occurred.
   - What you were trying to do and how you tried to do it.
   - Why you think it isn’t working.
-  - Commands or scripts you ran, in enough detail to reproduce the problem, as text (not screenshots). *Recommend attaching a .txt file*.
-  - The output and/or error messages you got, as text (not screenshots). *Recommend attaching a .txt file*.
+  - Commands or scripts you ran, in enough detail to reproduce the problem. *Recommend attaching a .txt file*.
+  - The output and/or error messages you got. *Recommend attaching a .txt file*.
   - List of modules or packages you have loaded. *Recommend attaching a .txt file*.
   - If your command or script worked in the past, when did it stop working?
-  - Are there any other machines where this problem does *not* occur (for example, Delta or Campus Cluster)?
   - Any other approaches you’ve tried.
   - Any other information you think might be relevant.
 
