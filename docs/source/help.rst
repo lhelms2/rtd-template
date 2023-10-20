@@ -3,7 +3,9 @@
 Getting Help
 ==============
 
-For any questions or issues not answered by this documentation, please **submit a support request** by emailing help@ncsa.illinois.edu. Your email will initiate a ticket that NCSA staff will use to help you. 
+.. raw:: html
+   
+   <p>For any other questions or issues not answered by the documentation, please <b>submit a support request</b> by emailing <a href="mailto:help@ncsa.illinois.edu?subject=Hydro: ">help@ncsa.illinois.edu</a>. Your email will initiate a ticket that NCSA staff will use to help you.</p>
 
 **To help NCSA staff efficiently address your request, in your initial email, please include:**
 
